@@ -53,3 +53,31 @@ The original setup of this repository is by [Franck Nijhof][frenck].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
+
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/app-unifi.svg
+[commits]: https://github.com/hassio-addons/app-unifi/commits/main
+[contributors]: https://github.com/hassio-addons/app-unifi/graphs/contributors
+[discord-ha]: https://discord.gg/c5DvZ4e
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/app-unifi/blob/main/unifi/DOCS.md
+[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-unifi-controller/56297?u=frenck
+[frenck]: https://github.com/frenck
+[github-actions-shield]: https://github.com/hassio-addons/app-unifi/workflows/CI/badge.svg
+[github-actions]: https://github.com/hassio-addons/app-unifi/actions
+[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
+[github-sponsors]: https://github.com/sponsors/frenck
+[issue]: https://github.com/hassio-addons/app-unifi/issues
+[license-shield]: https://img.shields.io/github/license/hassio-addons/app-unifi.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
+[patreon]: https://www.patreon.com/frenck
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[reddit]: https://reddit.com/r/homeassistant
+[releases-shield]: https://img.shields.io/github/release/hassio-addons/app-unifi.svg
+[releases]: https://github.com/hassio-addons/app-unifi/releases
+[repository]: https://github.com/hassio-addons/repository
