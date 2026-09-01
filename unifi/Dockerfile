@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/lemker/unifi-os-server:v1.5.1
+ARG BUILD_FROM=ghcr.io/lemker/unifi-os-server:latest
 # Use the UniFi OS Server image from lemker
 FROM ${BUILD_FROM}
 
@@ -15,7 +15,7 @@ COPY rootfs /
 WORKDIR /root
 
 # Download the UOS entrypoint script from lemker repository
-RUN curl -fsSL https://raw.githubusercontent.com/lemker/unifi-os-server/refs/tags/v1.5.1/uos-entrypoint.sh \
+RUN curl -fsSL https://raw.githubusercontent.com/lemker/unifi-os-server/main/uos-entrypoint.sh \
     -o /root/uos-entrypoint.sh \
     && chmod +x /root/uos-entrypoint.sh
 
